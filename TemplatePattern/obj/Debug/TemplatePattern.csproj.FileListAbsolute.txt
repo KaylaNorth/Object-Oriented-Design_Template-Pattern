@@ -13,3 +13,10 @@ C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Orie
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.exe
 C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.pdb
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\Kayla\source\repos\DesignPatterns\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
